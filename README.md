@@ -2,7 +2,7 @@
 
 ## _Sistema de gestión para un bar con tematica de Pokémon_
 
-###### > Conocimientos Aplicados TDA Pila/ Arreglos estaticos/ Estructuras/ Archivos/
+
 
 * **Inicio**
 
