@@ -8,6 +8,7 @@
 #include "main.h"
 
 int main() {
+
     system("mode 150,40");
 
     inicio();
