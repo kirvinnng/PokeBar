@@ -1,6 +1,6 @@
 # PokeBar
 
-## Sistema de gestión para un bar con *tematica de Pokémon*
+## _Sistema de gestión para un bar con tematica de Pokémon_
 
 * **Inicio**
 
