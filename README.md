@@ -1,10 +1,10 @@
 # ___PokeBar___  Proyecto Laboratorio 1 ( UTN ) 💻 
 
->  ___Sistema de gestión para un bar con tematica de Pokémon___ 
+>  ### _Sistema de gestión para un bar con tematica de Pokémon 
 
 
 
- ## Inicio*
+ ## *Inicio*
 
 ![gengar](https://user-images.githubusercontent.com/82684580/129832503-06b5a5c7-a2aa-4f46-b32b-16f2d24caaf7.png)
 
