@@ -1,6 +1,6 @@
 # ___PokeBar___  Proyecto Laboratorio 1 ( UTN ) 💻 
 
->  ### _Sistema de gestión para un bar con tematica de Pokémon 
+>  ### _Sistema de gestión para un bar con tematica de Pokémon_
 
 
 
